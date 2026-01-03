@@ -29,4 +29,5 @@ Expected Graduation: 2028
 
 ## Connect with me
 LinkedIn: www.linkedin.com/in/jimmyluong5
+
 Email: jimmyluong@yahoo.com
