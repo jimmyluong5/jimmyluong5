@@ -22,7 +22,9 @@ A daily challenge to master Python fundamentals and build a strong foundation fo
 
 ## Education
 University of British Columbia
+
 Bachelor of Applied Science in Electrical and Computer Engineering
+
 Expected Graduation: 2028
 
 ## Connect with me
