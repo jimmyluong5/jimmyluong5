@@ -1,6 +1,6 @@
 # Hi there, I'm Jimmy!
 
-I am a 2nd-year Electrical and Computer Engineering (ECE) student at the University of British Columbia with a deep passion for learning new things. 
+I am a 3rd-year Electrical and Computer Engineering (ECE) student at the University of British Columbia with a deep passion for learning new things. 
 I am currently diving deep into software development and potentially into hardware-software integration.
 
 ## Tech Stack
