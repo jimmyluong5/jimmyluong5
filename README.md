@@ -31,7 +31,7 @@ This project is an autonomous mobile robot capable of line following and manual 
 
 ## Education
 University of British Columbia
-National University of Singapore (Exchange Term August 2026 - December 2026)
+& National University of Singapore (Exchange Term August 2026 - December 2026)
 
 Bachelor of Applied Science in Electrical and Computer Engineering
 
