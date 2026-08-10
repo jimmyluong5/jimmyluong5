@@ -29,7 +29,7 @@ A daily challenge to master Python fundamentals and build a strong foundation fo
 This project is an autonomous mobile robot capable of line following and manual control. The robot uses onboard sensors to navigate a predefined path and respond to its environment. Future development will include an FPGA-based controller to manage switching between manual and autonomous operating modes, along with additional sensors such as an IMU and time-of-flight sensor to improve motion sensing and obstacle detection.
 
 
-## Education:
+## Education
 University of British Columbia
 & National University of Singapore (Exchange Term August 2026 - December 2026)
 
