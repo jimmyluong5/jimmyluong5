@@ -6,7 +6,7 @@ I am currently diving deep into software development and into embedded systems.
 ## Tech Stack
 
 **Languages**
-C (Standard and Embedded), Python, SystemVerilog, RISC-V Assembly, MATLAB
+C (Standard and Embedded), Python, SystemVerilog/Verilog, RISC-V Assembly, MATLAB
 
  **Embedded & Digital Systems**
  FPGA/RTL Design, Digital Logic, Microcontroller Programming, Computer Architecture, Finite State Machines, PWM, Timers
