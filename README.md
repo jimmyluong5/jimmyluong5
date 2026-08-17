@@ -15,7 +15,7 @@ C (Standard and Embedded), Python, SystemVerilog/Verilog, RISC-V Assembly, MATLA
  UART, SPI, I²C
 
 **Tools**:
-Git, GitHub, VSCode/Antigravity, Intel Quartus, ModelSim, STM32CubeMX, CMake
+Git, GitHub, VSCode/Antigravity, Intel Quartus, ModelSim, STM32CubeMX, CMake, PlatformIO
 
 **Hardware**:
 Altera DE10-Lite, STM32, PIC32, ESP32
