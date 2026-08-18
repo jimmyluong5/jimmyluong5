@@ -18,7 +18,7 @@ C (Standard and Embedded), Python, SystemVerilog/Verilog, RISC-V Assembly, MATLA
 Git, GitHub, VSCode/Antigravity, Intel Quartus, ModelSim, STM32CubeMX, CMake, PlatformIO
 
 **Hardware**:
-Altera DE10-Lite, STM32, PIC32, ESP32
+Altera DE10-Lite, STM32, PIC32, ESP32, Nuvoton N76E003, EFM8 
 
 ## Current Projects
 
