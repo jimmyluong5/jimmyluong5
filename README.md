@@ -20,14 +20,26 @@ Git, GitHub, VSCode/Antigravity, Intel Quartus, ModelSim, STM32CubeMX, CMake, Pl
 **Hardware**:
 Altera DE10-Lite, STM32, PIC32, ESP32, Nuvoton N76E003, EFM8 
 
+## Featured Projects
+
+### [Autonomous Magnetic Field Following Robot](https://github.com/jimmyluong5/ELEC-291---Project-2)
+STM32-based autonomous robot with magnetic field path following, software PID control, hysteresis, intersection detection, I²C sensor integration, and VL53L0X-based collision avoidance.
+
+### [Reflow Oven Controller](https://github.com/jimmyluong5/ELEC-291---Project-1)
+Embedded reflow oven controller using the DE10-Lite and EFM8, featuring a RISC-V assembly FSM, ADC-based temperature sensing, PWM heater control, SSR control, and safety logic.
+
 ## Current Projects
 
-**30 Days of Python**:
-A daily challenge to master Python fundamentals and build a strong foundation for software engineering.
+### [FPGA-Integrated Warehouse Rover](https://github.com/jimmyluong5/Autonomous-Line-Following-Warehouse-Rover)
+Developing an autonomous mobile robot capable of line following and manual control using an STM32-based embedded system. Current development focuses on autonomous navigation and wireless communication, with planned FPGA integration for managing operating modes and additional sensor integration for obstacle detection and motion sensing.
 
-**FPGA-integrated autonomous mobile robot**:
-This project is an autonomous mobile robot capable of line following and manual control. The robot uses onboard sensors to navigate a predefined path and respond to its environment. Future development will include an FPGA-based controller to manage switching between manual and autonomous operating modes, along with additional sensors such as an IMU and time-of-flight sensor to improve motion sensing and obstacle detection.
+## Currently Learning
 
+### [30 Days of Python](https://github.com/jimmyluong5/30-Days-of-Python-)
+Strengthening my Python fundamentals through daily programming exercises and small projects covering core language concepts and software development.
+
+### [LeetCode Practice](https://github.com/jimmyluong5/leetcode)
+Practicing data structures, algorithms, and problem-solving techniques in Python through LeetCode problems.
 
 ## Education
 University of British Columbia
