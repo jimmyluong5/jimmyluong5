@@ -31,7 +31,7 @@ Embedded reflow oven controller using the DE10-Lite and EFM8, featuring a RISC-V
 ## Current Projects
 
 ### [FPGA-Integrated Warehouse Rover](https://github.com/jimmyluong5/Autonomous-Line-Following-Warehouse-Rover)
-Developing an autonomous mobile robot capable of line following and manual control using an STM32-based embedded system. Current development focuses on autonomous navigation and wireless communication, with planned FPGA integration for managing operating modes and additional sensor integration for obstacle detection and motion sensing.
+Developing an autonomous mobile robot capable of line following and manual control using an STM32-based embedded system. Current development focuses on autonomous navigation and wireless communication, including communication between two ESP32 modules and an FPGA board for a wireless controller. Planned development includes further FPGA integration for managing operating modes and additional sensor integration for obstacle detection and motion sensing.
 
 ## Currently Learning
 
