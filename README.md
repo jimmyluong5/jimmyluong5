@@ -43,7 +43,7 @@ Practicing data structures, algorithms, and problem-solving techniques in Python
 
 ## Education
 University of British Columbia
-& National University of Singapore (Exchange Term August 2026 - December 2026)
+& National University of Singapore (Exchange: Aug 2026 - Dec 2026)
 
 Bachelor of Applied Science in Electrical and Computer Engineering
 
