@@ -30,7 +30,7 @@ Embedded reflow oven controller using the DE10-Lite and EFM8, featuring a RISC-V
 
 ## Current Projects
 
-### [Multi-mode Controlled Rover](https://github.com/jimmyluong5/Autonomous-Line-Following-Warehouse-Rover)
+### [Multi-mode Embedded Rover](https://github.com/jimmyluong5/Autonomous-Line-Following-Warehouse-Rover)
 Developing an autonomous mobile robot capable of line following and manual control using an STM32-based embedded system. Current development focuses on autonomous navigation and wireless communication between two ESP32 modules. Planned development includes a wireless controller, potentially through a web-based interface or mobile application, along with additional sensor integration for obstacle detection and motion sensing.
 
 ## Currently Learning
