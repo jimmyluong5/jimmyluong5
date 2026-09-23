@@ -22,16 +22,13 @@ Terasic DE10-Lite, STM32, ESP32, PIC32, Nuvoton N76E003, EFM8
 
 ## Featured Projects
 
+### [Multi-mode Embedded Rover](https://github.com/jimmyluong5/Autonomous-Line-Following-Warehouse-Rover)
+A fully integrated autonomous mobile rover built around the STM32G431KB and a distributed network of ESP32-S3 microcontrollers. The platform features closed-loop PID line following with an 8-channel reflectance array, real-time Time-of-Flight (VL53L1X) laser collision avoidance, 6-DoF IMU gesture tilt steering (LSM6DS3), a custom handheld wireless controller running preemptive dual-core FreeRTOS with a 3.2" LCD telemetry dashboard, and an autonomous computer vision "Follow-Me" tracking pipeline powered by Ultralytics YOLO (BoT-SORT) and OpenCV.
+
 ### [Autonomous Magnetic Field Following Robot](https://github.com/jimmyluong5/ELEC-291---Project-2)
 STM32-based autonomous robot with magnetic field path following, software PID control, hysteresis, intersection detection, I²C sensor integration, and VL53L0X-based collision avoidance.
 
-### [Reflow Oven Controller](https://github.com/jimmyluong5/ELEC-291---Project-1)
-Embedded reflow oven controller using the DE10-Lite and EFM8, featuring a RISC-V assembly FSM, ADC-based temperature sensing, PWM heater control, SSR control, and safety logic.
 
-## Current Projects
-
-### [Multi-mode Embedded Rover](https://github.com/jimmyluong5/Autonomous-Line-Following-Warehouse-Rover)
-Developing an autonomous mobile robot capable of line following and manual control using an STM32-based embedded system. Current development focuses on autonomous navigation and wireless communication between two ESP32 modules. Planned development includes a wireless controller, potentially through a web-based interface or mobile application, along with additional sensor integration for obstacle detection and motion sensing.
 
 ## Currently Learning
 
