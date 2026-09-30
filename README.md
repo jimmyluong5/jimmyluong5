@@ -1,4 +1,4 @@
-# Hi there, I'm Jimmy!
+﻿# Hi there, I'm Jimmy!
 
 I am a 3rd-year Electrical and Computer Engineering (ECE) student at the University of British Columbia with a deep passion for learning new things. 
 I am currently diving deep into software development and into embedded systems.
@@ -8,11 +8,11 @@ I am currently diving deep into software development and into embedded systems.
 **Languages**:
 C (Standard and Embedded), Python, SystemVerilog/Verilog, RISC-V Assembly, MATLAB
 
- **Embedded & Digital Systems**:
- FPGA/RTL Design, Digital Logic, Microcontroller Programming, Computer Architecture, Finite State Machines, PWM, Timers
+**Embedded & Digital Systems**:
+FPGA/RTL Design, Digital Logic, Microcontroller Programming, Computer Architecture, Finite State Machines, PWM, Timers
 
- **Communication Protocols**:
- UART, SPI, I²C
+**Communication Protocols**:
+UART, SPI, I²C
 
 **Tools**:
 Git, GitHub, VSCode/Antigravity, Intel Quartus, ModelSim, STM32CubeMX, CMake, PlatformIO
@@ -28,7 +28,10 @@ A fully integrated autonomous mobile rover built around the STM32G431KB and a di
 ### [Autonomous Magnetic Field Following Robot](https://github.com/jimmyluong5/ELEC-291---Project-2)
 STM32-based autonomous robot with magnetic field path following, software PID control, hysteresis, intersection detection, I²C sensor integration, and VL53L0X-based collision avoidance.
 
+## 🚀 Upcoming / In Progress Projects
 
+### DE10-Lite FPGA Hardware Accelerator for Monte Carlo Simulations
+Designing a custom hardware accelerator on the Terasic DE10-Lite (Intel MAX 10 FPGA) to accelerate Monte Carlo simulations, exploring RTL design, parallel computation pipelines, and hardware-software co-design.
 
 ## Currently Learning
 
