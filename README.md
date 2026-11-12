@@ -34,7 +34,7 @@ STM32-based autonomous robot with magnetic field path following, software PID co
 - Designing and developing an autonomous food delivery quadcopter powered by an NVIDIA Jetson Orin Nano and Pixhawk 6C flight controller.
 - Implementing multiple flight modes, including manual remote control, autonomous navigation, and AI-assisted precision landing using onboard cameras and computer vision.
 - Developing embedded software for real-time sensor processing, MAVLink communication, obstacle detection, and autonomous flight control.
-- 
+
 ## Currently Learning
 
 ### [30 Days of Python](https://github.com/jimmyluong5/30-Days-of-Python-)
@@ -49,7 +49,7 @@ University of British Columbia
 
 Bachelor of Applied Science in Electrical and Computer Engineering
 
-Expected Graduation: 2029
+Expected Graduation: May 2029
 
 ## Connect with me
 LinkedIn: www.linkedin.com/in/jimmyluong5
