@@ -28,11 +28,13 @@ A fully integrated autonomous mobile rover built around the STM32G431KB and a di
 ### [Autonomous Magnetic Field Following Robot](https://github.com/jimmyluong5/ELEC-291---Project-2)
 STM32-based autonomous robot with magnetic field path following, software PID control, hysteresis, intersection detection, I²C sensor integration, and VL53L0X-based collision avoidance.
 
-## 🚀 Upcoming / In Progress Projects
+## Upcoming Projects
 
-### DE10-Lite FPGA Hardware Accelerator for Monte Carlo Simulations
-Designing a custom hardware accelerator on the Terasic DE10-Lite (Intel MAX 10 FPGA) to accelerate Monte Carlo simulations, exploring RTL design, parallel computation pipelines, and hardware-software co-design.
-
+### Autonomous Food Delivery Drone
+- Designing and developing an autonomous food delivery quadcopter powered by an NVIDIA Jetson Orin Nano and Pixhawk 6C flight controller.
+- Implementing multiple flight modes, including manual remote control, autonomous navigation, and AI-assisted precision landing using onboard cameras and computer vision.
+- Developing embedded software for real-time sensor processing, MAVLink communication, obstacle detection, and autonomous flight control.
+- 
 ## Currently Learning
 
 ### [30 Days of Python](https://github.com/jimmyluong5/30-Days-of-Python-)
